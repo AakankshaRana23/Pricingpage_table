@@ -1,0 +1,74 @@
+h1{
+    color :white;
+    font-family :Cambria;
+    font-size : 40px;
+    margin-top: 20px;
+    text-align:center;
+    background-color:navy;
+
+    
+    
+}
+h3{
+    color:white;
+    font-size : 30px;
+    font-family: sans-serif;
+}
+div{
+    background-color :navy;
+    color :white;
+    font-size : 20px;
+    width : 350px;
+    height : 600px;
+    border-radius: 12px;
+    padding-bottom:10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float :left;
+    margin-left: 40px;
+    margin-top: 30px;
+    justify-content: center;
+
+}
+body{
+    background-color:yellow;
+ 
+}
+img{
+    width : 150;
+    height :100;
+    margin : 5px;
+}
+p{
+    font-family : Courier; 
+}
+.btn{
+    background-color :purple;
+    color :orange;
+    padding:6px 6px;
+    margin-left:10px;
+    font-weight: bold;
+    font-family :Cambria;
+    border-radius:10px;
+    font-size:24px;
+   
+}
+div:hover{
+    background-color:white ;
+    color :navy;
+    border:8px solid navy;
+    font-weight: bold;
+    h3{
+        color:navy;
+    }
+
+}
+.btn:hover{
+   color:purple;
+   background-color:orange;
+   border:5px solid purple;
+   
+
+
+}
